@@ -1,0 +1,108 @@
+a {
+  color: #ff0000;
+  }
+p {
+  margin-top: 1rem;
+}
+body {
+	line-height: 1.5;
+	font-family: Arial, Helvetica, sans-serif;
+	word-wrap: break-word;
+	overflow-wrap: break-word;
+	color:rgb(255, 255, 255);
+	margin:2em;
+  text-align: center;
+  background-color: #AFEEEE;
+  background-image: url(https://pubs.asha.org/cms/asset/52b7410c-60ea-4744-a1b0-28c322461aeb/jslhr-20-00153morgan_featimage.jpg);
+}
+
+h1 {
+	text-decoration-thickness: 3px;
+	text-underline-offset: 6px;
+	font-size: 800%;
+  font-family: cursive;
+	font-weight: bold;
+}
+
+h2 {
+	font-weight: bold;
+	color: #005A9C;
+	font-size: 140%;
+	text-transform: uppercase;
+}
+
+red {
+	color: red;
+}
+
+#controls {
+  display: flex;
+  margin-top: 2rem;
+  max-width: 28em;
+  margin-left: 33%;
+} 
+
+button {
+  flex-grow: 1;
+  height: 3.5rem;
+  min-width: 2rem;
+  border: rgb(255, 0, 255);
+  border-radius: 0.15rem;
+  background: #000000;
+  margin-left: 2px;
+  box-shadow: inset 0 -0.15rem 0 rgba(0, 0, 0, 0.2);
+  cursor: all-scroll;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color:#ff0000;
+  font-weight: bold;
+  font-size: 1.5rem;
+  text-align: center;
+  align-self: center;
+  -moz-box-align: center;
+  align-content: center;
+
+}
+
+button:hover, button:focus {
+  outline: none;
+  background: #c72d1c;
+}
+
+button::-moz-focus-inner {
+  border: 0;
+}
+
+button:active {
+  box-shadow: inset 0 1px 0 rgba(0, 0, 0, 0.2);
+  line-height: 3rem;
+}
+
+button:disabled {
+  pointer-events: none;
+  background: lightgray;
+}
+button:first-child {
+  margin-left: 0;
+}
+
+audio {
+  display: block;
+  width: 100%;
+  margin-top: 0.2rem;
+}
+
+li {
+  list-style: none;
+  margin-bottom: 1rem;
+}
+
+#formats {
+  margin-top: 0.5rem;
+  font-size: 80%;
+}
+
+#recordingsList{
+	max-width: 28em;
+}
