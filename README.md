@@ -5,5 +5,5 @@ Our model detects the emotions of the speaker out of the following emotions -
 Link to datasets- 
 Ravdess Dataset
 https://www.kaggle.com/uwrfkaggler/ravdess-emotional-speech-audio
-TESS-Datset
+TESS-Dataset
 https://www.kaggle.com/ejlok1/toronto-emotional-speech-set-tess
