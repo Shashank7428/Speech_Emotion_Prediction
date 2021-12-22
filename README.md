@@ -7,3 +7,6 @@ Ravdess Dataset
 https://www.kaggle.com/uwrfkaggler/ravdess-emotional-speech-audio
 TESS-Dataset
 https://www.kaggle.com/ejlok1/toronto-emotional-speech-set-tess
+
+THE REPORT LINK FOR OUR PROJECT-
+https://docs.google.com/document/d/1XtxQwvvHunUtYmbDRsBowJavuGAKf9uVTPBuLKWCfaw/edit?usp=sharing
